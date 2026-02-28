@@ -1,0 +1,16 @@
+{
+    "plugins": [
+        {
+            "id": "trivia",
+            "name": "Trivia Game",
+            "description": "Multiple-choice trivia pulled live from opentdb.com, with win tracking and a server leaderboard. Optional economy coin rewards.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "fun",
+                "games"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/trivia.lua"
+        }
+    ]
+}
