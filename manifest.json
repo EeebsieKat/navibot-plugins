@@ -56,6 +56,66 @@
                 "admin"
             ],
             "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/tickets.lua"
+        },
+        {
+            "id": "greeter",
+            "name": "New User Greeter",
+            "description": "Welcomes new users with a nice embed in a configured channel, with a configured message.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "moderation",
+                "fun"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/greeter.lua"
+        },
+        {
+            "id": "counting",
+            "name": "Counting Game",
+            "description": "The classic Discord counting game. Navi style. Fully configurable.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "games",
+                "fun"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/counting.lua"
+        },
+        {
+            "id": "casino",
+            "name": "Casino Games",
+            "description": "A few very basic Casino-like games. Requires the Economy plugin.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "games",
+                "fun"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/casino.lua"
+        },
+        {
+            "id": "reaction_roles",
+            "name": "Reaction Roles",
+            "description": "Creates a drop-down selector for configured roles.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "fun",
+                "moderation"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/reaction_roles.lua"
+        },
+        {
+            "id": "bot_status",
+            "name": "Custom Bot Status",
+            "description": "Allows bot admin to set custom status for Navibot.",
+            "author": "sewdohe",
+            "version": "1.0.0",
+            "tags": [
+                "fun",
+                "admin"
+            ],
+            "url": "https://raw.githubusercontent.com/Sewdohe/navibot-plugins/main/plugins/bot_status.lua"
         }
     ]
 }
